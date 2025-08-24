@@ -1,8 +1,8 @@
 {
   "name": "E3_HACKER_MD",
-  "description": "Javascript WhatsApp bot made by E3_HACKER_MD",
+  "description": "Javascript WhatsApp bot made by Ahmad-khilji",
   "logo": "https://files.catbox.moe/p4yxcn.png",
-  "keywords": ["E3_HACKER_MD"],
+  "keywords": ["Ahmad-khilji"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "E3_HACKER_MD"
+      "value": "Ahmad-khilji"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY E3_HACKER_MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY Ahmad-khilji 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "*E3_HACKER_MD*"
+      "value": "*Ahmad-khilji*"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923495178663"
-
+      "value": "923290338872"
+      
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿"
+      "value": "Ahmad-khilji"
 
       }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿 ❣️*"
+      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Ahmad-khilji ❣️*"
     },
 
       "DELETE_LINKS": {
